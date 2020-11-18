@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\ref\Cadastro.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\bin\Debug\net5.0\Cadastro.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\ref\Cadastro.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Cadastro\obj\Debug\net5.0\Cadastro.genruntimeconfig.cache

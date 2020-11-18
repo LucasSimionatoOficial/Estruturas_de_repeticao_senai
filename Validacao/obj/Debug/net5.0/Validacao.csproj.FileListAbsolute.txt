@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\ref\Validacao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\bin\Debug\net5.0\Validacao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\ref\Validacao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Validacao\obj\Debug\net5.0\Validacao.genruntimeconfig.cache

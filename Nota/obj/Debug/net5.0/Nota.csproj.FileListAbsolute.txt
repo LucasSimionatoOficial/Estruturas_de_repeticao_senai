@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\ref\Nota.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\bin\Debug\net5.0\Nota.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\ref\Nota.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 3 - Backend 1 - Logica\ExerciciosEstruturaRepeticao\Nota\obj\Debug\net5.0\Nota.genruntimeconfig.cache
